@@ -1,12 +1,69 @@
 :root {
     --logo-color:#000;
-    --accent-color:#2196F3;
-    --text-color:#212121;
-    --addtext-color:#757575;
-    --title-color:#FFF;
-    --team-beckground:#F5F4FA;
-    --footer-beckground:#2F303A;
-    --footer-number:rgba(255, 255, 255, 0.60);
+    --header-logo:#c7c7c7;
+    --language-color:#DCDCDC;
+    --hero-btn:#8E32C6;
+    --reviews-date:#D8D8D8;
+    --order-item:#959595;
+    --footer-beckground:#021635;
+    --order-button:#8D8D8D;
+    ---accent-color:#FFF;
 
 
 }
+
+.header-link {
+    color: var(--language-color);
+font-family: "Roboto";
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+margin-left: 73px;
+line-height: 1.17;
+
+}
+
+.header-linke {
+    color: var(--accent-color);
+    font-family: "Roboto";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main-colorawe {
+    background-image: url(../img/hero-background.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 94px;
+    padding-bottom: 183px;
+}
+
+.colo-caption {
+    color: var(---accent-color);
+    font-family: "PT Serif";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.33;
+}
+
+.color-title {
+color: var(---accent-color);
+font-family: "Playfair Display";
+font-size: 144px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.33;
+}
+
+.colorawe-head {
+color: var(---accent-color);
+font-family: "Playfair Display";
+font-size: 72px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
