@@ -304,12 +304,17 @@
     display: flex;   
 }
 
-.footer-li {
-color: var(--accent-color);
-font-family: "Roboto";
-font-size: 24px;
-font-style: normal;
-font-weight: 400;
-line-height: 1.17px;
+.tex-footer {
+  color: #fff;
+}
+
+.logo-text-footer {
+  color: #fff;
+  font-family: "PT-Serif";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.33;
+  margin-left: 50px;
 }
 
