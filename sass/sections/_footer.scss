@@ -1,0 +1,91 @@
+.footer {
+    background: #021635;
+    padding-top: 45px;
+    padding-bottom: 50px;
+
+}
+
+.footer-div {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+
+    border-bottom: solid 1px #9b9b9b;
+
+}
+
+.footer-text {
+    color: var(--accent-color);
+    font-family: "Roboto";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.16;
+}
+
+
+
+
+.footer-tex {
+    color: var(--accent-color);
+    font-family: "Roboto";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.16;
+    text-decoration-line: underline;
+}
+
+
+.anser {
+    color: var(--accent-color);
+    font-family: "Roboto";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.33;
+    margin-top: 45px;
+    margin-bottom: 20px;
+
+
+
+}
+
+.marker {
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.text-footer {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.16;
+    margin-bottom: 7px;
+
+}
+
+.tex-footer {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.16;
+
+}
+
+.logo-text-footer {
+    color: #fff;
+    font-family: "PT-Serif";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.33;
+    margin-left: 50px;
+
+}
